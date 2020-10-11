@@ -1,4 +1,4 @@
-#compiled files and the monster that node usually is
+#compiled files and the monstergit  that node usually is
 node_modules
 dist
 bundles
