@@ -1,0 +1,14 @@
+{
+  "name": "generator-paperback-repository",
+  "version": "0.1.0",
+  "description": "A generator which sets up a repository which can be slotted into the Paperback Manga Reader iOS application",
+  "files": [
+    "generators"
+  ],
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "dependencies": {
+    "yeoman-generator": "^4.12.0"
+  }
+}
