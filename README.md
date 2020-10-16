@@ -24,7 +24,7 @@ Inside of this directory, run the paperback generator you have downloaded in Ste
 
 The system will then ask you some questions about what your first source is going to be about. Fill all of these in to the best of your ability. 
 
-(Image here)
+![Choices](https://github.com/Paperback-iOS/Repository-Generator/blob/master/readme-content/yo-questions.PNG?raw=true)
 
 ### Step 3: Complete your Source
 
